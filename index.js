@@ -4,12 +4,12 @@ let cityStates = [
     {
         state: "California",
         stateAbbr: "CA",
-        cities: ["San Diego", "Los Angeles", "San Francisco", "Marin", "Hillsboro", "Chula Vista", "Menlo Park", "Palo Alto", "Oakland", "Berkeley", "Sacramento", "Santa Barbara", "San Luis Ibspo"]
+        cities: ["San Diego", "San Jose", "Los Angeles", "San Francisco", "Marin", "Hillsboro", "Chula Vista", "Menlo Park", "Palo Alto", "Oakland", "Berkeley", "Sacramento", "Santa Barbara", "San Luis Ibspo"]
     },
     {
         state: "Colorado",
         stateAbbr: "CO",
-        cities: ["Aspen", "Denver", "Colorado Springs"]
+        cities: ["Denver", "Colorado Springs"]
     },
     {
         state: "Washington",
